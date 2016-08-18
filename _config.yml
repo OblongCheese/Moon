@@ -1,5 +1,5 @@
 # Site
-title:              'human life'
+title:              'human'
 bio:                'for snippets of life'
 description:        ""
 reading_time:       true
@@ -40,7 +40,7 @@ sass:
 #email:
 twitter:            thejimmydimple
 #facebook:           username
-#github:             username
+github:             oblongcheese
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
