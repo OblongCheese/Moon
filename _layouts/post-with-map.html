@@ -1,0 +1,91 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <h1>{{ page.title }}</h1>
+                    <h4>{{ page.date | date_to_string }}</h4>
+                    {% if site.reading_time %}
+                    <p class="reading-time">
+                      <i class="fa fa-clock-o"></i>
+                      {% include read-time.html %}
+                    </p><!-- /.entry-reading-time -->
+                    {% endif %}
+                    {% if page.project %}
+                    <a class="btn zoombtn" href="{{site.url}}/projects/">
+                    {% else %}
+                    <a class="btn zoombtn" href="{{site.url}}/posts/">
+                    {% endif %}
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
+                </div>
+
+<!--------- map stuff goes here ---->
+
+	<div id="map" style="height: 200px"></div>
+	<script src="{{ site.url }}lib/fancybox/jquery.fancybox.pack.js"></script>	
+	<script src="{{ site.url }}lib/reqwest.min.js"></script>
+	<script src="{{ site.url }}lib/leaflet/leaflet.js"></script>
+	<script src="{{ site.url }}/dist/Leaflet.Instagram.Fancybox.js"></script>
+
+	<script>
+	// create our map object
+	//var map = L.map('map').setView([-27.397551, 153.058281], 13);
+	var map = L.map('map').fitWorld();
+	// get tiles from mapbox
+	L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+    		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+   		maxZoom: 18,
+    		id: 'thejimmydimple.a4929c55',
+    		accessToken: 'pk.eyJ1IjoidGhlamltbXlkaW1wbGUiLCJhIjoiNTM3OWExOGJiODczN2QwYjNjNGY2ZjUwZTg0MTFiOTcifQ.okt3hntNx7jgsA0DcLz5OA'
+	}).addTo(map); 
+	// display photos from instagram
+	L.instagram.fancybox('https://api.instagram.com/v1/users/33803954/media/recent?min_timestamp={{ page.date | date: "%s" | minus:86400 }}&max_timestamp={{ page.date | date: "%s" | plus:86400 }}&access_token=33803954.42e7a29.5f7d277e91a84278b9f229251a229544').addTo(map);
+	// bad solution: make another instagram query so we can get lat/long details...
+	$.getJSON('https://api.instagram.com/v1/users/33803954/media/recent?callback=?', {
+	min_timestamp: '{{ page.date | date: "%s" | minus:86400 }}',
+	max_timestamp: '{{ page.date | date: "%s" | plus:86400 }}',
+	access_token: '33803954.42e7a29.5f7d277e91a84278b9f229251a229544' 
+	}, function(resp) {
+	$("#loading").hide();
+	var markers = [];
+	// set nice-ish zoom level
+	map.setZoom(8, true);
+	$.each(resp.data, function(k, inst) {
+        // set the map view
+        //map.fitWorld();
+        map.panTo([inst.location.latitude, inst.location.longitude], true, 1);
+    	});
+	});
+	</script>
+
+<!--------- map stuff goes here ---->
+
+                {{ content }}
+                <div class="entry-meta">
+                {% include meta.html %}
+                </div>
+            </div>
+        </div>
+        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+    </header>
+    {% include scripts.html %}
+    {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+</body>
+</html>
