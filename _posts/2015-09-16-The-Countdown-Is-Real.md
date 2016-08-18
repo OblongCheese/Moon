@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Countdown Is Real
+date: 2015-09-16
 ---
 
 The countdown is real. Very real. I have found myself become more and more aware of the date as the time between now and when our holiday starts lessens.

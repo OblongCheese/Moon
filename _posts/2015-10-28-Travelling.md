@@ -3,7 +3,7 @@ layout: post-with-map
 title: Travelling
 ---
 
-<p class="intro"><span class="dropcap">W</span>oah! What a day today has been.</p>
+Woah! What a day today has been.
 
 This morning Carly drove up Alpe d'Huez so she could see what I saw yesterday when I rode up. This was also a sort of warm up for the next trip: Col du Glandon, the 1925 metre climb I did this morning.
 

@@ -3,7 +3,7 @@ layout: post-with-map
 title: Florence and Leonardo's Machines
 ---
 
-<p class="intro"><span class="dropcap">F</span>lorence almost turned into another Lyon. But it redeemed itself quickly.</p>
+Florence almost turned into another Lyon. But it redeemed itself quickly.
 
 We drove into Florence after dark. You think we would've learned our lesson by now that trying to find somewhere to park a campervan after dark is a bad idea. We did have a flimsy plan, as usual: go to a camp site, and if that falls through, park somewhere else. We had to opt for the 'somewhere else' as the camp site was closed for the winter.
 

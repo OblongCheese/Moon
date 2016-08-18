@@ -3,7 +3,7 @@ layout: post-with-map
 title: Travelling precariously
 ---
 
-<p class="intro"><span class="dropcap">T</span>he roads of Cinque Terre were not designed for campervans. Or even cars.</p>
+The roads of Cinque Terre were not designed for campervans. Or even cars.
 
 We awoke to find the rain had eased and the massive puddle we parked in had drained. We got our bearings and headed toward the nearest town where we hoped to, and did, find breakfast, in a cute little Italian seaside cafe.
 

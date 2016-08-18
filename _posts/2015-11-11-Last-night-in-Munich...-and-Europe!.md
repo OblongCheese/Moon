@@ -3,7 +3,7 @@ layout: post-with-map
 title: Last night in Munich... and Europe!
 ---
 
-<p class="intro"><span class="dropcap">M</span>ixed emotions are what we feel now.</p>
+Mixed emotions are what we feel now.
 
 We took it easy again today as now Carly has caught from me the flu I still have. We took a leisurely stroll from our apartment to the BMW Museum, where we spent longer than I realized looking at a combination museum/advertisement. It was actually pretty good if you like cars or motorbikes, and it would be amazing if you're a huge BMW fan, which I am not especially.
 

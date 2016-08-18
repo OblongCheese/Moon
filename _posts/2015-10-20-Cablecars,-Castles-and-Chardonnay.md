@@ -3,7 +3,7 @@ layout: post-with-map
 title: Cablecars, Castles and Chardonnay
 ---
 
-<p class="intro"><span class="dropcap">A</span>nother day, another vineyard/castle/epic monument.</p>
+Another day, another vineyard/castle/epic monument.
 
 Haha, no, I am not really that blasé. This morning we decided we didn't want to do any of the round-trip tours of Rüdesheim. Instead we took a cablecar direct to the Niederwalddenkmal (Niederwald monument) and had a look over Rüdesheim from a 300 metre altitude vantage point before heading back to our camper van via two (that's 2) different bakeries.
 

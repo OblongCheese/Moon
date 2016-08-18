@@ -3,7 +3,7 @@ layout: post-with-map
 title: San Gimignano
 ---
 
-<p class="intro"><span class="dropcap">Y</span>ou might be wondering, 'what did Carly and Owen visit today?' and if you answered yourself with 'yet another medieval town', you'd be right.</p>
+You might be wondering, 'what did Carly and Owen visit today?' and if you answered yourself with 'yet another medieval town', you'd be right.
 
 After leaving Florence we made the short journey to Greve in Chianti, a cute little wine town at the very top of the Chianti region in Italy. Chianti is the name given to the wine producing region in Italy, much like the <em>Rheingau</em> region in Germany and the Barossa Valley region in South Australia.
 

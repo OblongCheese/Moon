@@ -4,7 +4,7 @@ title: Medieval Towns of Bavaria
 ---
 
 
-<p class="intro"><span class="dropcap">D</span>inkelsbühl is a small citadel in the upper Bavaria region of Germany with which we now have a genuine understanding of its cobbled streets.</p>
+Dinkelsbühl is a small citadel in the upper Bavaria region of Germany with which we now have a genuine understanding of its cobbled streets.
 
 We decided to leave our camp ground this morning and drive to Dinkelsbühl because it was quite rainy and the camp ground is a few kilometres from the town centre. So we set a course for a nearby <em>stellplatz</em> (parking space) and made our way. We soon realized, as we drove from bitumen to cobbles through a huge stone gatehouse, that our GPS had decided to navigate us through the town centre to a parking space on the other side. So we had our first glimpse of Dinkelsbühl from the bumpy-yet-comfy interior of our camper van as people looked quizzically at us lumbering by, tyres chattering across the cobbles.
 

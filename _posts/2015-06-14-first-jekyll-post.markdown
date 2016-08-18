@@ -6,7 +6,7 @@ date:   2015-06-14
 
 <!-- intro - will be put on main page -->
 
-<p class="intro"><span class="dropcap">W</span>elcome to our travelog. I have set this little site up as a way for family and friends to keep track of our travels in Europe.</p>
+Welcome to our travelog. I have set this little site up as a way for family and friends to keep track of our travels in Europe.
 
 I have spent approximately 8 hours so far getting the site up and running. In that time I have:
 

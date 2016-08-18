@@ -3,7 +3,7 @@ layout: post-with-map
 title: Test Results and Lake Konigsee
 ---
 
-<p class="intro"><span class="dropcap">E</span>verything is O-K.</p>
+Everything is O-K.
 
 After we waited less than the quoted time (sixty minutes) for a tow truck to arrive and pull us out of the mud, we set off looking for a place to park for the night. You see, we had ironically been bogged in a field where camping is not allowed.
 

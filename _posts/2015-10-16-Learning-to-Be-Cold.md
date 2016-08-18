@@ -3,7 +3,7 @@ layout: post-with-map
 title: Learning to Be Cold
 ---
 
-<p class="intro"><span class="dropcap">H</span>ave you ever felt cold? I have learned today a new type of cold. Though I think it will only get worse before it gets better.</p>
+Have you ever felt cold? I have learned today a new type of cold. Though I think it will only get worse before it gets better.
 
 Last night I had a good sleep. I know this because I dreamt. Actually, the small bed we have in the campervan is the best bed we've had all trip: our prior AirBnB locations have all had great positive aspects, but none of them had "bed" as one. YMMV of course. I prefer a firm bed that doesn't concave at my middle. The simple foam mattress on top of a flat wooden storage box that comprises our campervan bed delivers just what I like in a bed. Carly hasn't had any complaint about beds so far, but I'm sure she could sleep on a concrete floor with only a slightly damp towel which isn't quite long enough to cover her feet for warmth with a tuft of hobo hair for a pillow.
 

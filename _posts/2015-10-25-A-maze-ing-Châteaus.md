@@ -3,7 +3,7 @@ layout: post-with-map
 title: A-maze-ing Châteaus
 ---
 
-<p class="intro"><span class="dropcap">S</span>till driving. This part of the trip is long because we've travelled from the north-west of France to the south-east of France.</p>
+Still driving. This part of the trip is long because we've travelled from the north-west of France to the south-east of France.
 
 But first, the châteaus. We arrived late last night at the <em>aire</em>, or what was being used as one, for the Château de Chenonceau. This château was built in stages by various people starting in the early 15th century. It's history is embroiled with French royalty and scandalous behaviour. Several of the characters from the show <em>Reign</em> are based on the real people who owned and lived in Château de Chenonceau.
 

@@ -3,7 +3,7 @@ layout: post-with-map
 title: Famous Landmarks
 ---
 
-<p class="intro"><span class="dropcap">E</span>veryone can name the famous landmarks of Paris, and today we visited three of them.</p>
+Everyone can name the famous landmarks of Paris, and today we visited three of them.
 
 We started out with an ideal to try and make up for a few hours lost yesterday, and we mostly succeeded. For whatever reason -- probably lingering jetlag -- both Carly and I were awake at 4.30AM this morning. We decided to make a positive use of our time and set off before sunrise (not that difficult when sunrise is 8AM) to make the most of our day.
 

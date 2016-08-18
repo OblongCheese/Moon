@@ -3,7 +3,7 @@ layout: post-with-map
 title: Highways and Byways
 ---
 
-<p class="intro"><span class="dropcap">G</span>erman Autobahn. "The Autobahn" is not a specific road. <em>Autobahn</em> is synonymous with highway in Germany.</p>
+German Autobahn. "The Autobahn" is not a specific road. <em>Autobahn</em> is synonymous with highway in Germany.
 
 All of the autobahn we have driven on thus far is not the classic "unlimited speed" highway you've probably heard about. Though sometimes it seems that way. The highest posted speed limit we've seen is 120km/h, but as we cruise along at 100-110km/h -- the highest speed our campervan is really comfortably capable of -- many people have passed us by at speeds that make it seem like we aren't really moving. Australian cops would have a field day here enforcing the speed limit!
 

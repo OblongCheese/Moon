@@ -3,7 +3,7 @@ layout: post-with-map
 title: Gozo, Malta
 ---
 
-<p class="intro"><span class="dropcap">G</span>ozo is the northern part of Malta. An island separated from the main island of Malta by a five kilometre stretch of sea.</p>
+Gozo is the northern part of Malta. An island separated from the main island of Malta by a five kilometre stretch of sea.
 
 We took a bus from Sliema to Cirkewwa and boarded the ferry with ease, though it was a close call as we only just had enough coins on us to pay for the ferry tickets - no ATMs in the ferry terminal on the Cirkewwa side.
 

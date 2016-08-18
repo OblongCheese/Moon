@@ -3,7 +3,7 @@ layout: post-with-map
 title: Zell am See
 ---
 
-<p class="intro"><span class="dropcap">Z</span>ell am See is a lovely little lake town in the north of Austria.</p>
+Zell am See is a lovely little lake town in the north of Austria.
 
 We decided to go here using the exacting scientific method of looking on our map for a lake and then driving to it. On our way we went past a shop that was half cafe and half grocery store. Except they only sold groceries that were either alcohol, junk food, meat, or preserves. This is where we purchased some meatballs that we intended to eat for dinner. We also purchased some shnitzel burgers and fries that we ate for lunch.
 

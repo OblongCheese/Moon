@@ -3,7 +3,7 @@ layout: post-with-map
 title: Rome Part II
 ---
 
-<p class="intro"><span class="dropcap">R</span>ome. Is an interesting place. Ancient Rome is bigger than I thought it would be.</p>
+Rome. Is an interesting place. Ancient Rome is bigger than I thought it would be.
 
 This morning we woke up earlyish (7AM), ate Corn Flakes for breakfast (starting to miss home a little now, I wanted WeetBix but strangely we couldn't find any... Corn Flakes next best thing) and headed to the tram station for the short ride into the capital.
 

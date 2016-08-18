@@ -3,7 +3,7 @@ layout: post-with-map
 title: Auf wiedersehen Deutschland, hallo België!
 ---
 
-<p class="intro"><span class="dropcap">R</span>acetracks and forests aren't usually associated with one another, but that depends on your familiarity with certain race tracks.</p>
+Racetracks and forests aren't usually associated with one another, but that depends on your familiarity with certain race tracks.
 
 Before leaving Germany today I felt it necessary to at least visit the Nürburgring even though I wouldn't be driving on it. I had pre-booked two 15 minute sessions in a race-prepared Renault Clio, but two days ago I received an e-mail telling me the circuit would be closed today, my planned day to drive. I was a bit disappointed but I've already done so much on this holiday it sort of doesn't matter. 
 

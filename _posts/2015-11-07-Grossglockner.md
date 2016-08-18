@@ -3,7 +3,7 @@ layout: post-with-map
 title: Großglockner
 ---
 
-<p class="intro"><span class="dropcap">G</span>roßglockner (Grossglockner) High alpine road is a really high road through the alps of northern Austria.</p>
+Großglockner (Grossglockner) High alpine road is a really high road through the alps of northern Austria.
 
 The highest point on the road is 2504m above sea-level. To put that into perspective, Mt. Coot-tha in Brisbane is a whopping 287m above sea-level. The Großglockner is itself the highest mountain in Austria with a peak 3798m above sea-level. You can see this mountain from the alpine road at a special little tourist area set up specifically for the purpose which includes a car park, restaurant, and viewing platform.
 

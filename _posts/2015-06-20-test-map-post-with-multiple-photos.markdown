@@ -6,7 +6,7 @@ date:   2015-06-20
 
 <!-- intro - will be put on main page -->
 
-<p class="intro"><span class="dropcap">T</span>esting a map post with multiple images from the same day.</p>
+Testing a map post with multiple images from the same day.
 
 You should see a map above with some photographs from when I went cycling this morning, plus some photos from Jeremy & Larina's wedding in the afternoon.
 

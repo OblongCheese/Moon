@@ -3,7 +3,7 @@ layout: post-with-map
 title: Hamersee and Munich
 ---
 
-<p class="intro"><span class="dropcap">H</span>amersee is yet another lake in Germany about 45 minutes south of Munich.</p>
+Hamersee is yet another lake in Germany about 45 minutes south of Munich.
 
 We stayed at our final campsite here so we could be prepared to return our campervan in the morning. We didn't want to get up super early to start cleaning so we started the night before, which meant that after cleaning the toilet and shower it was important we were in a campsite so we didn't have to use our facilities and instead could use theirs.
 

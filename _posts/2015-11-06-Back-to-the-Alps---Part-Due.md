@@ -3,7 +3,7 @@ layout: post-with-map
 title: St. Johann's Church
 ---
 
-<p class="intro"><span class="dropcap">S</span>t. Johann's Church in Santa Magdalena, Italy. A quaint little church in the middle of nowhere at the foot of the Italian alps.</p>
+St. Johann's Church in Santa Magdalena, Italy. A quaint little church in the middle of nowhere at the foot of the Italian alps.
 
 This was our stopover destination today while we were on our way back north to start the journey back to Munich to close out our holiday... but not yet. I don't know anything about St. Johann's Church except that I saw a photo of it on the internet and decided that I wanted to go there and see it for myself. That has been the beauty of this holiday so far for me. I literally spent the weeks leading up to it reading sites like "amazingplacesonearth.com" and then Googling for the locations of things and then deciding whether I wanted to go there or not.
 

@@ -3,7 +3,7 @@ layout: post-with-map
 title: Valletta, Malta
 ---
 
-<p class="intro"><span class="dropcap">V</span>alletta is like something out of a movie.</p>
+Valletta is like something out of a movie.
 
 Today we visited Valletta in Malta, which is a small finger of land protruding between Sliema and Kalkara into the sea. Valletta is home to <em>Il-Forti Saint lermu</em> (Fort St. Elmo), a medieval Fort dating back to the mid-1500s.
 

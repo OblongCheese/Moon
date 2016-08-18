@@ -3,7 +3,7 @@ layout: post-with-map
 title: Rome Part IV - Not Rome Anymore
 ---
 
-<p class="intro"><span class="dropcap">O</span>ur last day of being in Rome; well, technically being in the city of Rome.</p>
+Our last day of being in Rome; well, technically being in the city of Rome.
 
 We had a long drive ahead of us this morning. From Rome to Venice is about 450km and in a campervan, it takes a while. One aspect of this mode of transport we've had to adjust to is that any GPS predictions about time to destination are invariably short. Sure, maybe it would take an hour to drive 80 kilometres if you travelled at the speed limit for the entire journey. But when you're driving a 3.5 tonne campervan up a hill on a sign-posted 130km/h highway doing 80km/h because you got stuck behind a semi-trailer and you can't move into the fast lane because there's a constant stream of cars flying past at what looks like 140km/h, the estimated time of arrival goes out the window.
 

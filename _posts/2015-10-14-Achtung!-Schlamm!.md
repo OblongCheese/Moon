@@ -3,7 +3,7 @@ layout: post-with-map
 title: Achtung! Schlamm!
 ---
 
-<p class="intro"><span class="dropcap">W</span>e're off to a good start. Well, we were.</p>
+We're off to a good start. Well, we were.
 
 We flew from Malta to Munich in only two hours and fifteen minutes. We landed and it was cold, but not too cold. Probably on the edge of reasonableness. We collected our luggage and my bicycle with ease and had lunch before taking an expensive taxi ride on the Autobahn to our motorhome pickup point.
 

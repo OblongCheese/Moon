@@ -3,7 +3,7 @@ layout: post
 title: Google Photos
 ---
 
-<p class="intro"><span class="dropcap">T</p>he current state of Google Photos is somewhat of a mess. It has some great features which I am trying to make use of, but show stopping problems are preventing me from doing so.
+The current state of Google Photos is somewhat of a mess. It has some great features which I am trying to make use of, but show stopping problems are preventing me from doing so.
 
 I wish to create a Google Photos Story. This involves selecting more than four items, be they photo or video or both, and then narrating with captions etc. Google Stories will automatically place them into a minimalistic animated slideshow and also add nice touches like map animations showing travel if there are large geographic gaps between items.
 

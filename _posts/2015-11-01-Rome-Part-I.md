@@ -4,7 +4,7 @@ title: Rome - Part I
 ---
 
 
-<p class="intro"><span class="dropcap">W</span>ashing. There's no escaping it, even on holiday.</p>
+Washing. There's no escaping it, even on holiday.
 
 Today was a bit of a relaxation or slow-down day where we did nothing much in the way of sightseeing, we simply relaxed at camp and did our chores before having lunch.
 

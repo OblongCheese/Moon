@@ -4,7 +4,7 @@ title:  "Test Map Post"
 date:   2015-06-14
 ---
 
-<p class="intro"><span class="dropcap">T</span>est post with a map embedded in it.</p>
+Test post with a map embedded in it.
 
 This post makes use of a different Jekyll layout to display a map. I thought about using Javascript to make a call to Instagram and only display the map if there are photos from today, but I think that's probably a little bit too lazy.
 

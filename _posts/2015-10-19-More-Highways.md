@@ -3,7 +3,7 @@ layout: post-with-map
 title: More Highways
 ---
 
-<p class="intro"><span class="dropcap">A</span>n average day is a bit of an emotional letdown, but without them you cannot appreciate the highs.</p>
+An average day is a bit of an emotional letdown, but without them you cannot appreciate the highs.
 
 Today was pretty average as far as our holiday is concerned. We packed up the camper van after staying at a self-service <em>reisemobilplatz</em> (motorhome space) outside Rothenburg ob der Tauber and drove to Heidelberg which was in hindsight a bad idea, which I'll explain shortly.
 

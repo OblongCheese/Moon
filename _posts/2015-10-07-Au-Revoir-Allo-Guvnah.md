@@ -3,7 +3,7 @@ layout: post-with-map
 title: Au Revoir, 'Allo Govnah!
 ---
 
-<p class="intro"><span class="dropcap">A</span>u revoir Paris, 'allo govnah!</p>
+Au revoir Paris, 'allo govnah!
 
 This morning was our final morning in Paris. I can't say that I was sad to leave. I did enjoy being in Paris to see the Louvre, Notre Dame, Sainte-Chappelle, <em>Tour Eiffel</em>, and cruise the Siene. I also enjoyed the high quality of <em>patissiere</em>, bistro and restaurant food that we consumed. There were also two genuinely nice French people that we met: on first arriving, the man who helped me carry luggage up stairs at the train station when the escalators were not working; also the man at L'Angle Babylone who was obvious and attentive to our needs as foreigners for menu translations and wine suggestions. But what I won't miss are the overflowing bins, dirty streets, dog poo, and overall feeling of haughtyness that the environment of Paris generates.
 

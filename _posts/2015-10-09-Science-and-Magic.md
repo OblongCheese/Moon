@@ -3,7 +3,7 @@ layout: post-with-map
 title: Science and Magic
 ---
 
-<p class="intro"><span class="dropcap">T</span>oday was a magical day.</p>
+Today was a magical day.
 
 Magical in the sense that we started by having an amazingly good breakfast which I'm sure was imbued with a little fairy dust. Or hyperbole. One of the two.
 

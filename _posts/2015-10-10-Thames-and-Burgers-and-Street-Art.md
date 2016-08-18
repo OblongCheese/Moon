@@ -3,7 +3,7 @@ layout: post-with-map
 title: Thames and Burgers and Street Art
 ---
 
-<p class="intro"><span class="dropcap">T</span>hames. Pronounced 'tems', the Thames is an historic feature of London across which many famous bridges have been built.</p>
+Thames. Pronounced 'tems', the Thames is an historic feature of London across which many famous bridges have been built.
 
 London Bridge is not the bridge you think it is. Tower Bridge is the iconic bridge with two towers and a drawbridge. London Bridge is a pretty normal looking bridge built in 1974 with no real historical significance other than it being named the same as the first bridge built across the Thames by the Roman founders of London thousands of years ago.
 

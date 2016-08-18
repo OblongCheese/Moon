@@ -3,7 +3,7 @@ layout: post-with-map
 title: Bédoin & Mont Ventoux
 ---
 
-<p class="intro"><span class="dropcap">W</span>e didn't stay in Lyon long.</p>
+We didn't stay in Lyon long.
 
 We left earlyish and drove to our next destination, Bédoin. This unremarkable little town in the south of France was on our itinerary for one reason: we would stay here so I could ride Mont Ventoux. Mont Ventoux is a famous climb in the cycling world with all the greats having ridden it at one point or another. The route is 20 kilometres long with an average gradient of 7%. For comparison, Mt Coot-tha is 2.2km with an average grade of 10%. Mt Coot-tha is given a Category 4 rating (categories are from 4, easiest, to 1, hardest, plus HC above that) Ventoux is HC, "hors catégorie", aka unable to be rated.
 

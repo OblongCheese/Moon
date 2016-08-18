@@ -3,7 +3,7 @@ layout: post-with-map
 title: Rome Part III
 ---
 
-<p class="intro"><span class="dropcap">P</span>ope is a weird word when you say it 20 times quickly. Pope pope pope pope. Pope.</p>
+Pope is a weird word when you say it 20 times quickly. Pope pope pope pope. Pope.
 
 My affiliation with the Catholic church is measurable by the number of times in my life I have been to a Catholic church for a religious purpose: once. In fact, my affiliation with 'my' Church, which I think is Christian, is also measurable by the same metric: about five or six. That includes when I attended my own christening ceremony, at age 6 months.
 

@@ -3,7 +3,7 @@ layout: post
 title: Public Transport in Brisbane
 ---
 
-<p class="intro"><span class="dropcap">I</p>'ve said it before, but I feel so aggrieved by this that I feel as though I need to impotently complain about it again.
+I've said it before, but I feel so aggrieved by this that I feel as though I need to impotently complain about it again.
 
 People in Brisbane are THE SLOWEST at getting on a train I've ever seen in my life. It takes people so long to walk on, and when they do, they stand about two steps into the carriage absent-mindedly looking about for a seat, but not any seat, it has to be their seat that they always sit on. And when that seat is inevitably already taken on the peak hour service, they begrudgingly - in what feels to me about one and a half times longer than it should actually take - sit somewhere else. But by now there is a backlog of similarly glassy-eyed, absent-minded zombie passengers that for all intents and purposes you'd think getting on a train is the equivalent for these people as deciding just exactly where and how they'd like to be executed.
 

@@ -3,7 +3,7 @@ layout: post-with-map
 title: Skipping Through the Flemish Countryside
 ---
 
-<p class="intro"><span class="dropcap">G</span>hent (Gent) is another medieval European town that we paid a visit to.</p>
+Ghent (Gent) is another medieval European town that we paid a visit to.
 
 This morning we visited Gravensteen Castle, a castle whose origins begin in the 11th century as the house of a noble and goes right up to the mid-1800s. This castle has been restored twice but authentically so; you can tell that sections are filled with modern masonry techniques but only if you look hard and then you also notice it has been done with care to preserve the original look and finish. That applies to 20th century efforts. The restoration work from the 19th century replaced grey-blue stone with red-orange brick, a bit of a half-arsed job in my opinion, but these sections are few and far in-between.
 
