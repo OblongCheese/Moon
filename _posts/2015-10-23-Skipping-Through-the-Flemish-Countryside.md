@@ -1,0 +1,16 @@
+---
+layout: post-with-map
+title: Skipping Through the Flemish Countryside
+---
+
+<p class="intro"><span class="dropcap">G</span>hent (Gent) is another medieval European town that we paid a visit to.</p>
+
+This morning we visited Gravensteen Castle, a castle whose origins begin in the 11th century as the house of a noble and goes right up to the mid-1800s. This castle has been restored twice but authentically so; you can tell that sections are filled with modern masonry techniques but only if you look hard and then you also notice it has been done with care to preserve the original look and finish. That applies to 20th century efforts. The restoration work from the 19th century replaced grey-blue stone with red-orange brick, a bit of a half-arsed job in my opinion, but these sections are few and far in-between.
+
+The castle interior houses the museum of the castle. Each room shows various items from the lifespan of the castle and describes what the room was used for during different periods. It seemed like most of the time the castle was used for punishment, and in fact there is an entire room dedicated to instruments of torture, some of which were donated to the museum by the son of Ghent's last executioner who was employed in said position until 1866. They also had a guillotine! With an actual blade that had actually been used to cut off peoples heads!
+
+After Gravensteen we toured a bit of Ghent but didn't stay too long and drove the 45 minutes to Bruges (Brugge), yet another medieval town. This one is overall a much denser town and I think was a citadel at one point. It is referred to as the Venice of the North so we dutifully took a guided tour by boat of the sights. It blows my mind that people here can open their back door and take three steps and fall into a canal. Iean we have 'waterfront living' all over the place in Australia but these peoples cellar doors are literally at the water's edge, just 30cm or so above it.
+
+Bruges is famous for its chocolate, and Belgium famous for its waffles, so naturally we sampled both, to our delight. Dinner was delicious and another local speciality, waterzooi. It's a type of creamy stew. We both had chicken. But the restaurant we had it in is more important. They don't have to try too hard for atmosphere in a place like Bruges but De Vlaamsche Pot was something else. I mean, we usually have to manufacture our ambience and atmosphere because we don't have a lot of historic buildings with restaurants in them. In De Vlaamsche Pot we sat next to a brick wall probably 200 years old, under a one foot square wooden beam just as old - or older, surrounded by candle-lit statues, paintings and busts of all kinds of people and things. It was great and you should go.
+
+Oh and then we drove to France and are about halfway to Mont St. Michel which we plan to visit tomorrow morning. We are pulled up in an <em>aire</em>, a dedicated overnight parking area for travellers. France literally has thousands of them, well-signed, just off the motorway. I am getting used to being able to pull up wherever I feel like it and sit at my dinner table or go to sleep in my bed...
